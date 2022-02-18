@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tuu1010
 - 👀 I’m interested in SpongeBob, ML, Laws, Make things, Code, Sociology, Running, Lose fat, QiongLi, etc.
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on laws, legal tech, Machine learning
 - 📫 Reach me: shtuu@foxmail.com 
 
 <!---
